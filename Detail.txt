@@ -1,0 +1,39 @@
+Youtube video for SpringBoot
+https://www.youtube.com/watch?v=5kOGdZmpSDI
+
+
+Easy way to build the springboot project using online 
+https://start.spring.io/
+
+
+Project
+Maven ProjectGradle Project
+Language
+JavaKotlinGroovy
+Spring Boot
+2.7.0 (SNAPSHOT)2.6.3 (SNAPSHOT)2.6.22.5.9 (SNAPSHOT)2.5.8
+Project Metadata
+Group
+com.myproject.webs
+Artifact
+webapp
+Name
+webapp
+Description
+Demo project for Spring Boot for web application
+Package name
+com.myproject.webs.webapp
+Packaging
+JarWar
+Java
+17118
+DependenciesADD DEPENDENCIES...CTRL + B
+Spring Web WEB
+Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
+MySQL Driver SQL
+MySQL JDBC and R2DBC driver.
+Spring for Apache Kafka MESSAGING
+Publish, subscribe, store, and process streams of records.
+Lombok DEVELOPER TOOLS
+Java annotation library which helps to reduce boilerplate code.
+Spring Reactive Web 
